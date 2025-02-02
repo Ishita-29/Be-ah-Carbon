@@ -2,6 +2,12 @@
 
 A modern Android application designed to help users track and reduce their carbon footprint through personalized insights, AI assistance, and gamified challenges.
 
+<img src="https://github.com/user-attachments/assets/a5a915af-5077-46c2-a5b3-d8b79cf4ce2c" alt="Screenshot" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/fd68e195-15d0-4c71-8343-1952274863ee" alt="Screenshot" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/8eff356e-3a45-43ca-bb34-4fe43d2c06b5" alt="Screenshot" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/89681624-1ed3-4265-8d9c-5b34c94106de" alt="Screenshot" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/f0d2bd65-a9aa-4141-976b-669d7742f04c" alt="Screenshot" width="150" height="300">
+
 ## Features ✨
 
 ### Core Features
