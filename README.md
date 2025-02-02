@@ -34,3 +34,38 @@ A modern Android application designed to help users track and reduce their carbo
 ## Getting Started 🚀
 
 1. Clone the repository
+2. Open in Android Studio
+3. Build and run the project
+
+## Architecture 🏗
+
+The app follows MVVM architecture pattern and is organized into the following modules:
+
+- `components/`: Reusable UI components
+- `screens/`: Main app screens
+- `viewmodels/`: ViewModels for state management
+- `data/`: Data models and repositories
+- `navigation/`: Navigation setup
+- `ui/theme/`: Theme configuration
+
+## Contributing 🤝
+
+Contributions are welcome! Feel free to:
+- Report bugs
+- Suggest new features
+- Submit pull requests
+
+## Acknowledgments 🙏
+
+- Material Design Icons
+- Android Jetpack Libraries
+- Kotlin Programming Language
+
+## Future Roadmap 🗺️
+
+- [ ] Backend integration
+- [ ] Real AI implementation
+- [ ] Social features
+- [ ] Gamification system
+- [ ] AR visualization
+- [ ] Community challenges
